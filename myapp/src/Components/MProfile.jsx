@@ -10,7 +10,7 @@ const MProfile = () => {
 
 
   return (
-    <div className="flex w-full h-fit items-center justify-center mt-5 p-2 rounded-md  backdrop-blur-sm bg-custom1">
+    <div className="flex w-full h-fit items-center justify-center mt-5 p-2 rounded-md  backdrop-blur-sm bg-customc">
       <div className="flex w-80 h-full p-1 justify-between items-center truncate">
         <Link to="/dashboard/profile">
           <div className="rounded-full border-2 flex justify-center items-center cursor-pointer p-3 relative">

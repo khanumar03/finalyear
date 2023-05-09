@@ -4,7 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        custom1: "#f9fafb"
+        customc: "#f9fafb"
+      },
+      backgroundColor:  {
+        custom1: "#2d2d30"
       },
       maxHeight: {
         "128": "34rem"
